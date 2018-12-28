@@ -1,0 +1,59 @@
+
+
+.header-color{
+  background-color: #FFB6C1;
+}
+.head-color{
+  background-image: url("../images/musica.logo2.png");
+}
+.html {
+  background-color: aqua;
+}
+.body{
+    background-color: 	#87CEFA;
+}
+
+#alien{
+  width: 300px;
+  height: 200px;
+
+}
+
+.jumbotron {
+  background-size: cover;
+  background-color: white;
+  background-attachment: fixed;
+  min-height: 300px;
+}
+#amor {
+  width: 300px;
+  height: 200px;
+}
+#risa{
+  width: 300px;
+  height: 200px;
+}
+#titulo{
+  background-color:#DDA0DD;
+}
+#jumbo{
+background-image: url("../images/fondosobrenosotros.jpg");
+color: 	white;
+}
+#pelis{
+    background-color:#DDA0DD;
+}
+.subtitulo{
+color: green;
+}
+.subtitulos{
+  color: white;
+}
+#fondo{
+  width: 350px;
+  height: 200px;
+}
+
+.titulo{
+  color:white;
+}
